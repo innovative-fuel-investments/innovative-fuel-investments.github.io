@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "新時代の資産形成術：ゼロから始める米国原子力投資"
-categories: 資産運用
+categories: beginner
 author:
 - Innovative Fuel Investments
 meta: "米国で注目されている原子力産業への投資について紹介します。脱炭素化を進める中で、原子力は再生可能エネルギーの重要な一翼を担うだけでなく、AIを動かす電力源としても注目されています。この分野は、将来的に大きな成長を見込める可能性があります。"
