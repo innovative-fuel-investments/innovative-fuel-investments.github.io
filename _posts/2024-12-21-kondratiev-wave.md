@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "米国の次世代原子力産業への長期投資:コンドラチェフ波動に乗って富を築け！"
+title: "米国の次世代原子力産業への長期投資戦略：50年上昇サイクルに乗って富を築け！"
 categories: beginner
 author:
 - Innovative Fuel Investments
