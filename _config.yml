@@ -1,14 +1,13 @@
 title: 先端エネルギー投資メディア | Innovative Fuel Investments
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Fuel Investments Ninja
+# email:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: > 
+日本テクニカルアナリスト協会認定テクニカルアナリスト試験合格者。米国の革新的原子力産業への株式投資を中心とした資産運用ブログです。
+  
 
 # Build settings
 
@@ -68,7 +67,7 @@ minima:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
+     - { platform: x,              user_url: "https://x.com/fuel_ninja123" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 google_analytics: G-2JZCDJL1Z1
