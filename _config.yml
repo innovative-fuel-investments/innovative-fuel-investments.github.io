@@ -71,3 +71,4 @@ minima:
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 google_analytics: G-2JZCDJL1Z1
+timezone: "Asia/Tokyo"
