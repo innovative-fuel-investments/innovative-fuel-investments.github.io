@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: "Oklo(オクロ): 史上最高値から1週間で約30％下落 - 先進原子力企業の今後の見通しは？"
+categories: beginner
 author:
 - Innovative Fuel Investments
 description: "Okloの株価動向と今後の見通しを分析、最新情報解説。"
