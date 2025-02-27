@@ -23,18 +23,18 @@ SMR（小型モジュール炉）は、従来の大型原子炉に比べて、�
 ### フィンランド
 現状 : フィンランドにはロヴィーサとオルキルオトの2つの原子力発電所があり、合計容量は約4,500MW。SMRは電力供給と地域熱供給の両方に利用可能とされています。
 
-進行中のプロジェクト: VTTとSteady EnergyはLDR-50地域熱供給用反応炉を開発中であり、Rolls Royce SMRとのパートナーシップも進行中です（[Small modular reactors | Säteilyturvakeskus STUK](https://stuk.fi/en/small-modular-reactors)）。
+進行中のプロジェクト: VTTとSteady EnergyはLDR-50地域熱供給用反応炉を開発中であり、Rolls Royce SMRとのパートナーシップも進行中です（[Small modular reactors - Säteilyturvakeskus STUK](https://stuk.fi/en/small-modular-reactors)）。
 
-政府の政策: 核エネルギー法の更新を進め、ラッペーンランタ・ラハティ工科大学の政府報告書（[SMR Development in Finland | FinNuclear ry](https://finnuclear.fi/en/smr-development-in-finland/)）では、現在の法制度内でSMR導入が可能とされていますが、さらなる更新が必要とされています。
+政府の政策: 核エネルギー法の更新を進め、ラッペーンランタ・ラハティ工科大学の政府報告書（[SMR Development in Finland - FinNuclear ry](https://finnuclear.fi/en/smr-development-in-finland/)）では、現在の法制度内でSMR導入が可能とされていますが、さらなる更新が必要とされています。
 
-タイムライン: 最初の地域熱供給SMRは2030年までに商用化可能と見込まれています（[First small nuclear reactor in Finland in 10–15 years? | Fortum](https://www.fortum.com/about-us/blog-podcast/forthedoers-blog/first-small-nuclear-reactor-finland-10-15-years)）。
+タイムライン: 最初の地域熱供給SMRは2030年までに商用化可能と見込まれています（[First small nuclear reactor in Finland in 10–15 years? - Fortum](https://www.fortum.com/about-us/blog-podcast/forthedoers-blog/first-small-nuclear-reactor-finland-10-15-years)）。
 
 ### スウェーデン
 現状: 6つの原子炉が電力の約40%を供給。政府は核容量の拡大を計画し、SMRを含む新炉の建設を推進しています（[Nuclear Power in Sweden - World Nuclear Association](https://world-nuclear.org/information-library/country-profiles/countries-o-s/sweden)）。
 
 進行中のプロジェクト: UniperとLeadColdはオスカーシャムンサイトでデモンストレーションSMRを2030年までに建設予定。VattenfallはリングハルスサイトでのSMR可能性を調査中（[Funding for demonstration Swedish SMR - World Nuclear News](https://world-nuclear-news.org/Articles/Funding-for-demonstration-Swedish-SMR)）。
 
-政府政策: 2035年までに2基の大型炉、2045年までに10基の新炉（SMRを含む）の建設を目標に設定。新規サイトでの建設も許可（[Sweden plans new nuclear reactors by 2035, will share costs | Reuters](https://www.reuters.com/business/energy/sweden-plans-new-nuclear-reactors-by-2035-can-take-costs-2023-11-16/)）。
+政府政策: 2035年までに2基の大型炉、2045年までに10基の新炉（SMRを含む）の建設を目標に設定。新規サイトでの建設も許可（[Sweden plans new nuclear reactors by 2035, will share costs - Reuters](https://www.reuters.com/business/energy/sweden-plans-new-nuclear-reactors-by-2035-can-take-costs-2023-11-16/)）。
 
 タイムライン: 最初のSMRは2030年代初頭に運用開始可能と見込まれます。
 
@@ -50,7 +50,7 @@ SMR（小型モジュール炉）は、従来の大型原子炉に比べて、�
 ### デンマーク
 現状: 核禁止法により原子力発電所はなく、SMR技術開発企業（Seaborg Technologies、Copenhagen Atomics）が存在します（[Nuclear Energy in Denmark - World Nuclear Association](https://world-nuclear.org/information-library/country-profiles/countries-a-f/denmark)）。
 
-進行中のプロジェクト: モルトンソルト反応炉の開発に注力し、国際的なパートナーシップを模索（[Seaborg Technologies | Rethinking Nuclear Energy | Sustainability | Copenhagen, Denmark](https://www.seaborg.com/)）。
+進行中のプロジェクト: モルトンソルト反応炉の開発に注力し、国際的なパートナーシップを模索（[Seaborg Technologies - Rethinking Nuclear Energy - Sustainability Copenhagen, Denmark](https://www.seaborg.com/)）。
 
 政府政策: 現在の法制度ではSMR導入は禁止されており、政策変更が必要です。
 
@@ -59,7 +59,7 @@ SMR（小型モジュール炉）は、従来の大型原子炉に比べて、�
 ### アイスランド
 現状: 地熱と水力発電に依存し、SMRへの関心はほぼありません。
 
-政府政策: 核エネルギーに興味を示さず、再生可能エネルギーに注力（[Government of Iceland | Energy](https://www.government.is/topics/business-and-industry/energy/)）。
+政府政策: 核エネルギーに興味を示さず、再生可能エネルギーに注力（[Government of Iceland - Energy](https://www.government.is/topics/business-and-industry/energy/)）。
 
 タイムライン: SMR導入の計画は見られません。
 
