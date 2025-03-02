@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: > 
-  日本テクニカルアナリスト協会認定テクニカルアナリスト試験合格者。米国の革新的原子力産業への株式投資を中心とした資産運用ブログです。
+  日本テクニカルアナリスト協会認定テクニカルアナリスト。米国の革新的原子力産業への株式投資を中心とした資産運用ブログです。
   
 
 # Build settings
@@ -28,7 +28,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - about.md
+  - disclaimer.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
